@@ -1,0 +1,82 @@
+[
+    {
+        "sample": 1,
+        "input": {
+            "niche": "personal finance",
+            "topic": "I automated my savings and forgot about it for two years",
+            "target_seconds": 45
+        },
+        "output": {
+            "hook": "I completely forgot about my savings for two years, and you won't believe what happened.",
+            "body": "Seriously. I set up an automated transfer to a separate savings account a while ago. It was a small, consistent amount, nothing I'd miss from my regular checking. Then, life got busy, and it just slipped my mind. Fast forward two years, and I stumbled upon that account. The balance had grown into a substantial sum, all without me thinking about it once. It’s amazing how powerful consistent, passive saving can be. This experience really highlighted the magic of automation.",
+            "cta": "What are you automating to make your life easier?",
+            "word_count": 104,
+            "target_words": 112,
+            "estimated_seconds": 41.6
+        }
+    },
+    {
+        "sample": 2,
+        "input": {
+            "niche": "fitness",
+            "topic": "Why shorter workouts can sometimes be easier to stick with",
+            "target_seconds": 30
+        },
+        "output": {
+            "hook": "What if your fitness goals were easier to reach with *less* time commitment?",
+            "body": "Often, the biggest hurdle to exercise isn't the workout, it's *starting*. A shorter session feels less intimidating, reducing mental resistance. It's simply easier to commit to a quick burst of activity than a lengthy one. Consistency is key, and smaller, manageable workouts effectively build that habit for better long-term results.",
+            "cta": "Try a shorter workout and feel the difference!",
+            "word_count": 71,
+            "target_words": 75,
+            "estimated_seconds": 28.4
+        }
+    },
+    {
+        "sample": 3,
+        "input": {
+            "niche": "technology",
+            "topic": "What actually happens when you type a website address into your browser",
+            "target_seconds": 60
+        },
+        "output": {
+            "hook": "Ever wonder what *really* happens in the milliseconds after you type a website address and hit enter?",
+            "body": "It's a digital ballet behind the scenes. First, your browser takes that human-friendly name, like 'google.com', and asks a special server, called a DNS server, to translate it into a numeric IP address. This is essentially the website's exact street address on the internet. Once armed with that IP, your browser sends a request directly to the web server hosting the site. That server then processes your request, collects all the pieces – the text, images, code – and sends them back to your browser. Your browser then gets to work, assembling all those components and painting the webpage onto your screen. It's an incredible sequence of events, happening thousands of times every second, all just to bring you your favorite content.",
+            "cta": "Mind blown? Hit that follow button for more tech deep dives!",
+            "word_count": 150,
+            "target_words": 150,
+            "estimated_seconds": 60.0
+        }
+    },
+    {
+        "sample": 4,
+        "input": {
+            "niche": "productivity",
+            "topic": "The simple rule I use to stop checking my phone while working",
+            "target_seconds": 30
+        },
+        "output": {
+            "hook": "Ever feel like your phone just *knows* when you're trying to work?",
+            "body": "My simple rule? I don't just silence it; I put it completely out of sight. Think: a different room, or at least across your workspace. That physical distance creates enough friction. When an urge to check it pops up, that slight extra effort breaks the automatic habit. It's truly effective for deep focus.",
+            "cta": "What helps you stay present?",
+            "word_count": 70,
+            "target_words": 75,
+            "estimated_seconds": 28.0
+        }
+    },
+    {
+        "sample": 5,
+        "input": {
+            "niche": "career",
+            "topic": "The mistake I made when applying for my first software job",
+            "target_seconds": 45
+        },
+        "output": {
+            "hook": "The one thing I completely messed up when applying for my first software role might surprise you.",
+            "body": "I thought sending out as many generic applications as possible was the strategy. Just changing the company name and hitting submit. Big mistake. Recruiters and hiring managers can spot a generic resume and cover letter instantly. They want to see that you've actually read the job description and understand *their* specific needs. It's not about the sheer number of applications you send. It's about tailoring each one to show how your skills and experience directly align with what *they* are looking for.",
+            "cta": "What's one job application lesson you learned the hard way?",
+            "word_count": 109,
+            "target_words": 112,
+            "estimated_seconds": 43.6
+        }
+    }
+]
